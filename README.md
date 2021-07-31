@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-<img src="https://realprodom.com/images/cat-proger.gif" alt="banner" />
+<img width="100%" src="https://realprodom.com/images/cat-proger.gif" alt="banner" />
 
 #
 
