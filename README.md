@@ -47,3 +47,5 @@
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&theme=dark)
