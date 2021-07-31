@@ -10,9 +10,7 @@
 
 #
 
-#### My name is Ivan, I am from Kaliningrad and I am 19 years old.
-
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdf45&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+### My name is Ivan, I am from Kaliningrad and I am 19 years old.
 
 ## My skills 👨‍💻
 
@@ -73,3 +71,7 @@
   <span>&nbsp;&nbsp;</span>
   <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdf45&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
 </p>
+
+#
+
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdf45&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="visitors" />
