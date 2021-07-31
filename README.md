@@ -71,12 +71,12 @@
 ## My stats
 
 <p align="center">
-  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark" />
+  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&title_color=F7DF1E&icon_color=F7DF1E&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
   <span>&nbsp;&nbsp;</span>
-  <img width="43%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mdf45&theme=dark" />
+  <img width="43%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mdf45&title_color=F7DF1E&icon_color=F7DF1E&text_color=c9d1d9&background=0d1117&border=30363d&stroke=F7DF1E&ring=ff8800&fire=ff8800&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 <p align="center">
-  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&theme=dark" />
+  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&title_color=F7DF1E&icon_color=F7DF1E&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
   <span>&nbsp;&nbsp;</span>
-  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdf45&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dark&count_private=true&show_icons=true" />
+  <img width="43%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdf45&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&count_private=true&show_icons=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" />
 </p>
