@@ -3,21 +3,9 @@
 <img width="100%" src="https://realprodom.com/images/cat-proger.gif" alt="banner" />
 
 <p align="center">
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-  <img align="top" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
-</p>
-
-<p align="center">
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
-  <img align="top" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
+  <img align="center" width="42" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest/scale-to-width-down/500?cb=20180617092325&path-prefix=ru" alt="csharp" />
+  <span>&nbsp;</span>
+  <img align="center" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="js" />
 </p>
 
 #
