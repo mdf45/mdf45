@@ -48,14 +48,15 @@
 
 #
 
-<p float="left">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdf45&theme=dark" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark" />
 </p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdf45&theme=dark" />
+</p>
 <p>
   <img width="425" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&theme=dark" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</p>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdf45&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dark&count_private=true&show_icons=true" />
 </p>
