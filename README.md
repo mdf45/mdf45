@@ -1,5 +1,9 @@
 # Welcome to my GitHub page 👋
 
+<img src="https://realprodom.com/images/cat-proger.gif" alt="banner" />
+
+#
+
 #### My name is Ivan, I am from Kaliningrad and I am 19 years old.
 
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdf45&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
