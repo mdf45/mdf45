@@ -2,6 +2,8 @@
 
 #### My name is Ivan, I am from Kaliningrad and I am 19 years old.
 
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdf45&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 ## My skills 👨‍💻
 
 #### Hard skills
@@ -46,6 +48,14 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark)
+<p float="left">
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=mdf45&count_private=true&show_icons=true&theme=dark" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdf45&theme=dark" />
+</p>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&theme=dark)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdf45&theme=dark" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdf45&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dark&count_private=true&show_icons=true" />
+</p>
