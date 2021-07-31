@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-#### My name is Ivan, I am from Kalinigrad and I am 19 years old.
+#### My name is Ivan, I am from Kaliningrad and I am 19 years old.
 
 ## My skills 👨‍💻
 
