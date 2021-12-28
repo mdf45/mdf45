@@ -10,7 +10,7 @@
 
 #
 
-### My name is Ivan, I am from Kaliningrad and I am 19 years old. I ❤️️❤️️❤️️ C#
+### Welcome to my profile
 
 ## My skills 👨‍💻
 
