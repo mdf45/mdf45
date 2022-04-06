@@ -55,8 +55,9 @@
 #### Pro in
 
 <p>
-  <img alt="Steam API" src="https://img.shields.io/badge/Steam API-242424?logo=steam&logoColor=white&style=flat">
-  <img alt="Telegram BOT" src="https://img.shields.io/badge/Telegram BOT-242424?logo=telegram&logoColor=white&style=flat">
+  <img alt="Steam API" title="Steam API" src="https://img.shields.io/badge/Steam API-242424?logo=steam&logoColor=white&style=flat">
+  <img alt="Telegram BOT" title="Telegram BOT" src="https://img.shields.io/badge/Telegram BOT-242424?logo=telegram&logoColor=white&style=flat">
+  <img alt="Web 3" title="Web 3" src="https://img.shields.io/badge/Web%203-242424?logo=bitcoin&logoColor=success&style=flat">
 </p>
 
 ## My stats
