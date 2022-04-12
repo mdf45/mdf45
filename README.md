@@ -14,8 +14,7 @@
 
 ## My skills 👨‍💻
 
-#### Hard skills
-
+### Hard skills
 ##### Pro
 <p>
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-52009c?logo=csharp&logoColor=white&style=flat">
@@ -28,9 +27,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-e97100?logo=mysql&logoColor=white&style=flat">
   <img alt="MS SQL" src="https://img.shields.io/badge/MS SQL-a60244?logo=microsoftsqlserver&logoColor=white&style=flat">
 </p>
-
 ##### So so
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3777ab?logo=python&logoColor=white&style=flat">
   <img alt="C++" src="https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white&style=flat">
