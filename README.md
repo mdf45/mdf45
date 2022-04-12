@@ -38,6 +38,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-004482?logo=cplusplus&logoColor=white&style=flat">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-232531?logo=php&logoColor=white&style=flat">
   <img alt="Java" src="https://img.shields.io/badge/Java-e52c32?logo=java&logoColor=white&style=flat">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-white?logo=solidity&logoColor=gray&style=flat">
   <br>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgresSQL-1572B6?logo=postgresql&logoColor=white&style=flat">
   <br>
@@ -45,7 +46,7 @@
   <br>
 </p>
 
-#### Frameworks
+##### Frameworks
 
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-52009c?logo=&logoColor=white&style=flat">
@@ -54,7 +55,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat">
 </p>
 
-#### Pro in
+##### Pro in
 
 <p>
   <img alt="Steam API" title="Steam API" src="https://img.shields.io/badge/Steam API-242424?logo=steam&logoColor=white&style=flat">
