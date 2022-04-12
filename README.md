@@ -15,6 +15,8 @@
 ## My skills 👨‍💻
 
 #### Hard skills
+
+##### Pro
 <p>
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-52009c?logo=csharp&logoColor=white&style=flat">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
@@ -27,7 +29,7 @@
   <img alt="MS SQL" src="https://img.shields.io/badge/MS SQL-a60244?logo=microsoftsqlserver&logoColor=white&style=flat">
 </p>
 
-#### Soft skills
+##### So so
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3777ab?logo=python&logoColor=white&style=flat">
