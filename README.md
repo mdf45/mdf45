@@ -49,10 +49,10 @@
 ##### Frameworks
 
 <p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-52009c?logo=&logoColor=white&style=flat" />
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-52009c?logo=&logoColor=white&style=flat" />
-  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5c00ad?logo=blazor&logoColor=white&style=flat" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-52009c?logo=&logoColor=white&style=flat" title=".NET" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-52009c?logo=&logoColor=white&style=flat" title="ASP.NET" />
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5c00ad?logo=blazor&logoColor=white&style=flat" title="Blazor" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" title="React" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-B52E31?logo=angular&logoColor=white&style=flat" title="Angular" />
 </p>
 
