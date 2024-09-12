@@ -27,13 +27,13 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-e97100?logo=mysql&logoColor=white&style=flat">
   <img alt="MS SQL" src="https://img.shields.io/badge/MS SQL-a60244?logo=microsoftsqlserver&logoColor=white&style=flat">
   <br>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=flat">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat">
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=white&style=flat">
-  <br>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=flat">
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-ff6600?logo=rabbitmq&logoColor=white&style=flat">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat">
+  <br>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=flat">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=white&style=flat">
 </p>
 
 ##### So so
@@ -58,6 +58,7 @@
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5c00ad?logo=blazor&logoColor=white&style=flat" title="Blazor" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" title="React (Library)" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-B52E31?logo=angular&logoColor=white&style=flat" title="Angular" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat" title="Angular" />
 </p>
 
 ##### Pro in
