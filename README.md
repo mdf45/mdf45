@@ -58,7 +58,7 @@
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5c00ad?logo=blazor&logoColor=white&style=flat" title="Blazor" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" title="React (Library)" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-B52E31?logo=angular&logoColor=white&style=flat" title="Angular" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat" title="Angular" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white&style=flat" title="Vue" />
 </p>
 
 ##### Pro in
