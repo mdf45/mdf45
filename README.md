@@ -30,6 +30,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=flat">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?logo=windows&logoColor=white&style=flat">
+  <br>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-ff4438?logo=redis&logoColor=white&style=flat">
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-ff6600?logo=rabbitmq&logoColor=white&style=flat">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat">
 </p>
 
 ##### So so
